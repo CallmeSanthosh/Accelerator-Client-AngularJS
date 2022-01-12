@@ -1,0 +1,42 @@
+.navbar {
+	margin-bottom: 0px;
+}
+
+.container {
+	padding: 10px;
+	padding-top: 50px;
+}
+
+.well {
+	border-left: 0.5px solid white;
+}
+
+.well:HOVER {
+	background-color: white;
+}
+
+h3 {
+	color: #2196f3
+}
+
+.btn-link {
+	color: #2196f3;
+}
+
+.btn-primary {
+	color: white;
+}
+
+div {
+	color: grey;
+}
+
+.box {
+	background-color: white;
+	color: white;
+}
+
+.box:HOVER {
+	color: white;
+}
+
